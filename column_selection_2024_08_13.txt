@@ -1,0 +1,94 @@
+column	Field id	Description
+6031-6034	6150	Vascular/heart problems diagnosed by doctor (initial visit only)
+1507	3894	Age heart attack diagnosed
+1416	3627	Age angina diagnosed
+1543	4056	Age stroke diagnosed
+1193	2966	Age high blood pressure diagnosed
+6071-6075	6152	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor
+1531	4012	Age deep-vein thrombosis (DVT, blood clot in leg) diagnosed
+1535	4022	Age pulmonary embolism (blood clot in lung) diagnosed
+1527	3992	Age emphysema/chronic bronchitis diagnosed
+1471	3786	Age asthma diagnosed
+1463	3761	Age hay fever, rhinitis or eczema diagnosed
+1049	2443	Diabetes diagnosed by doctor
+1539	4041	Gestational diabetes only
+6429	10844	Gestational diabetes only (pilot)
+1197	2976	Age diabetes diagnosed
+NA	2986	Started insulin within one year diagnosis of diabetes
+1053	2453	Cancer diagnosed by doctor
+1057	2463	Fractured/broken bones in last 5 years
+6043-6049	6151	Fractured bone site(s)
+1201	3005	Fracture resulting from simple fall
+1061	2473	Other serious medical condition/disability diagnosed by doctor
+
+14252	30620	Alanine aminotransferase
+14224	30600	Albumin
+14238	30610	Alkaline phosphatase
+14266	30630	Apolipoprotein A
+14280	30640	Apolipoprotein B
+14294	30650	Aspartate aminotransferase
+14378	30710	C-reactive protein
+14336	30680	Calcium
+14350	30690	Cholesterol
+14364	30700	Creatinine
+14392	30720	Cystatin C
+14308	30660	Direct bilirubin
+14406	30730	Gamma glutamyltransferase
+14420	30740	Glucose
+14434	30750	Glycated haemoglobin (HbA1c)
+14446	30760	HDL cholesterol
+14460	30770	IGF-1
+14474	30780	LDL direct
+14488	30790	Lipoprotein A
+14502	30800	Oestradiol
+14516	30810	Phosphate
+14530	30820	Rheumatoid factor
+14544	30830	SHBG
+14572	30850	Testosterone
+14558	30840	Total bilirubin
+14586	30860	Total protein
+14600	30870	Triglycerides
+14614	30880	Urate
+14322	30670	Urea
+14628	30890	Vitamin D
+
+6291-6293	6177	Medication for cholesterol, blood pressure or diabetes
+6091-6094	6153	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones
+1065	2492	Taking other prescription medications
+6107-6112	6154	Medication for pain relief, constipation, heartburn
+6356-6360	10004	Medication for pain relief, constipation, heartburn (pilot)
+6361-6363	10005	Medication for smoking cessation, constipation, heartburn, allergies (pilot)
+6131-6137	6155	Vitamin and mineral supplements
+6368-6373	10007	Vitamin and mineral supplements (pilot)
+6303-6308	6179	Mineral and other dietary supplements
+6416-6421	10723	Vitamin supplements (pilot)
+6431-6436	10854	Other dietary supplements (pilot)
+
+1551-1552	4079	Diastolic blood pressure, automated reading
+399-400	94	Diastolic blood pressure, manual reading
+1559-1560	4080	Systolic blood pressure, automated reading
+391-392	93	Systolic blood pressure, manual reading
+
+72	48	Waist circumference
+9791	21002	Weight [ Weight was measured by a variety of means during the initial Assessment Centre visit. This field amalgamates these values into a single item. ]
+1348	3160	Weight, manual entry
+9787	21001	Body mass index (BMI)
+76	49	Hip circumference
+80	50	Standing height
+
+11656	23098	Weight - Impedance
+11676	23104	Body mass index (BMI) - Impedance
+11764	23127	Trunk fat percentage - Impedance
+11768	23128	Trunk fat mass - Impedance
+11772	23129	Trunk fat-free mass - Impedance
+11776	23130	Trunk predicted mass - Impedance
+NA	23105	Basal metabolic rate - Impedance
+11660	23099	Body fat percentage - Impedance
+11664	23100	Whole body fat mass - Impedance
+11668	23101	Whole body fat-free mass - Impedance
+11672	23102	Whole body water mass - Impedance
+
+0	eid	id
+22	31	sex (0f 1m)
+9795	21003	age when attended assessment centre
+9784	21000	ethnic background (self-reported)
